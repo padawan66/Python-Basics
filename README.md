@@ -1,2 +1,1 @@
-# python-apps
-This repo contains the apps made using python from basic to real world apps. 
+This repository contains several programs and real world python apps , starting from python basics built as part of the Python mega course on Udemy. None of the python code is copied. All created and built from scratch. Necessary comments / descriptions are provided wherever necessary. Deviations from the course content can be found in several places
