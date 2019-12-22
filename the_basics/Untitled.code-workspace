@@ -7,5 +7,7 @@
 			"path": "/Users/tejasdongre/Tejas/Personal/Python/10_real_world_app_course/python_apps"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3"
+	}
 }
